@@ -1,14 +1,9 @@
-from bottle import route, run, debug, template, static_file
+from bottle import route, run, debug, template
 
 @route('/', method='GET')
 def index():
     # Serve index.tpl
     return template('index')
-
-@route('/js/<filename>', method='GET')
-def js(filename):
-    # Serve Javascript files
-    return static_file(filename, root='js')
 
 # Cache is disabled in debug mode
 debug(True)
