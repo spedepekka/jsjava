@@ -1,4 +1,4 @@
-package rapidprogrammer.jsjava;
+package com.rapidprogrammer.jsjava;
 
 import org.junit.Test;
 

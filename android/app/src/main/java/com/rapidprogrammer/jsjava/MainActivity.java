@@ -1,4 +1,4 @@
-package rapidprogrammer.jsjava;
+package com.rapidprogrammer.jsjava;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;

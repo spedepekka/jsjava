@@ -1,4 +1,4 @@
-package rapidprogrammer.jsjava;
+package com.rapidprogrammer.jsjava;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

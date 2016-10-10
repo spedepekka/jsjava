@@ -5,8 +5,8 @@ android {
     buildToolsVersion "24.0.3"
 
     defaultConfig {
-        applicationId "rapidprogrammer.jsjava"
-        minSdkVersion 18
+        applicationId "com.rapidprogrammer.jsjava"
+        minSdkVersion 19
         targetSdkVersion 24
         versionCode 1
         versionName "1.0"
